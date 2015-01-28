@@ -47,4 +47,3 @@ Check category page, and product view page.
 I put an example csv file. you can download from
 https://github.com/igi8819/magmi/tree/master/examples
 bundle exmaple file
-
