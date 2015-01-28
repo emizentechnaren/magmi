@@ -22,11 +22,18 @@ IMPORTANT:
 put these field in .csv file with values:
 
 price_view: 1 (0 = price range, 1= as low as)
+
 price_type: 0 (0 = dynamic, 1 = fixed)
+
 shipment_type: 0 (0 = together, 1 = Separately)
+
 sku_type: 0 (0 = dynamic, 1 = fixed)
+
 weight_type: 0 (0 = dynamic, 1 = fixed)
+
 options_container: container1 ( where product options can be displayed. container1 is higher up the page, near the price. container2 is further down, below the description )
+
+
 This fields is important in import csv file, so put there!!!!!
 
 After modification put the modified file to the magmi var import directory, where magmi loads import files.
